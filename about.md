@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About Craig Booker
+title: About Teklabs
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 image:
   feature: so-simple-sample-image-4.jpg
