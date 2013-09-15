@@ -20,4 +20,4 @@ We are at heart makers.  At Teklabs, we write software because we love to create
 
 
 ##Write
-I have never really considered myself a writer. That is until I began to write for the love of writing. I excelled in English in school and didn’t know what to do with it. Writing has always been easier for me than speaking. I am currently in beta as a writer. Learning to be disciplined in my writing. 
+We have never really considered ourselves writers. That is until we began to write for the love of writing. We are currently in beta as writers. Learning to be disciplined in our writing. We hope our articles provide information which captures our readers' attention and adds value to their lives.
