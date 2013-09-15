@@ -1,7 +1,7 @@
-title:            Craig Booker
+title:            Teklabs
 description:      iOS/Mac Developer and Writer.
 logo:             site-logo.png
-disqus_shortname: craigbooker
+disqus_shortname: teklabs
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://your-website.com
 
@@ -9,16 +9,16 @@ disqus_shortname: craigbooker
 owner:
   name:           Craig Booker
   avatar:         bio-photo.jpg
-  email:          mail@craigbooker.com
+  email:          craig@teklabs.co
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        "craigbooker"
-  facebook:       "craigbooker"
-  github:         "craigbooker"
+  twitter:        "teklabsco"
+  facebook:       "teklabsco"
+  github:         "teklabs"
   stackexchange:  "craigbooker"
-  linkedin:       "craigbooker"
-  instagram:      "craigbooker"
-  flickr:         "craigbooker"
-  tumblr:         "craigbooker"
+  linkedin:       "teklabsco"
+  instagram:      ""
+  flickr:         ""
+  tumblr:         ""
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -35,9 +35,9 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Teklabs
-    url: http://teklabs.co
-    external: true
+  #- title: Teklabs
+  #  url: http://teklabs.co
+  #  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
