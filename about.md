@@ -9,7 +9,6 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-##About
 At Teklabs we have a passion for finding ways to do things better. We enjoy solving problems and helping people. We crave personal growth and do so through various forms of education.  We read a lot of books, listen to podcasts, and read articles. We believe we are here to encourage people to discover all technology has to offer. Part of how we live this out is through personal training, writing, and sharing online. We create solutions to problems. This can be through an iOS or Mac App or through web technologies. Whatever is best suited to achieve the goal at hand.
 
 ##Personal Training
@@ -19,5 +18,5 @@ At Teklabs we love helping people discover technology.  We believe technology sh
 We are at heart makers.  At Teklabs, we write software because we love to create. We enjoy finding solutions to enrich our lives and the lives of others.  Our Founder, Craig Booker, spent a good 5 years as a web developer building web sites and web-based solutions. Craig now focuses on finding ways to use code to solve problems. We enjoy iOS development and mobile devices of all kinds.  Our computer programming experience lies in Ruby, Ruby on Rails, Javascript, JQuery, and HTML5. 
 
 
-##Write
+##Writing
 We have never really considered ourselves writers. That is until we began to write for the love of writing. We are currently in beta as writers. Learning to be disciplined in our writing. We hope our articles provide information which captures our readers' attention and adds value to their lives.
